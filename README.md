@@ -1,1 +1,1 @@
-This is a *sample* website *with some iditoic content*.
+This is a *sample* website **with some idiotic content**.
